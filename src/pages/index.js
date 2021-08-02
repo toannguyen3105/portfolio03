@@ -12,13 +12,12 @@ const Home = () => {
   return (
     <>
       <Head>
-        <meta charset="utf-8" />
         <meta name="description" content="Portfolio of Nguyen Huy Toan" />
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
 
         {/* FACEBOOK */}
         <meta property="og:title" content="Portfolio of Nguyen Huy Toan" />
-        <meta property="og:description" content="Tell more about me, projects, techs, contact" />
+        <meta property="og:description" content="Show project, techs, contact with me" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
